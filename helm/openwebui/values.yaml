@@ -1,0 +1,5 @@
+ollama: 
+  enabled: true
+
+persistentVolume:
+  storageClass: gp3
